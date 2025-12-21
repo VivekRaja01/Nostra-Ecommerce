@@ -1,4 +1,4 @@
-# 🛍️ Nostra - E-commerce Website 
+# 🛍️ Nostra - E-commerce Website
 Nostra is a responsive e-commerce website built using HTML, CSS, and JavaScript. It provides users with a clean shopping experience, including search and filter functionality to easily browse products. The project includes three main pages – Home, Collections, and Contact Us. The Home page introduces Nostra, the Collections page displays products with search & filter features, and the Contact page allows users to get in touch. The website is fully responsive across mobile, tablet, and desktop devices.
 
 ## 📌 Features
